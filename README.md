@@ -18,6 +18,6 @@ Para instalar em sua máquina, clone o projeto em seu diretório desejado usando
   $ git clone  https://github.com/diuliano-vargas-silveira/Maps-Poc.git
 ```
 
-Após clonar, certifique-se que você tenha uma ApiKey do GoogleMaps aonde você pode conseguir [aqui](https://developers.google.com/maps/documentation/android-sdk/cloud-setup). Depois de configurar sua key entre em <strong>local.properties</strong> na sua ide e coloque a sua key do maps.
+Após clonar, certifique-se que você tenha uma ApiKey do GoogleMaps aonde você pode conseguir [aqui](https://developers.google.com/maps/documentation/android-sdk/cloud-setup). Depois de configurar sua key entre em <strong>local.properties</strong> na sua ide e coloque a sua key do maps na variável MAPS_API_KEY.
 
 [LinkedIn](https://www.linkedin.com/in/diuliano-vargas-da-silveira/)
